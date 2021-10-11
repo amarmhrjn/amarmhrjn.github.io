@@ -1,0 +1,69 @@
+I"S<h1 id="welcome">Welcome</h1>
+<p>
+    My research interests include point set registration, human pose estimation, deep learning, semi-supervised learning, computer vision, machine learning. 
+    <br /><br /> 
+    I am a PhD candidate student at the University of North Texas (UNT), Denton. My research is on non-rigid registration of point set with large and uneven deformation such as (3D) point sets representing complex articutaed human poses. To achieve accurate non-rigid registration in such challenging cases, my work use both local neighborhood constraint and global shape constraint in the registration. I am expected to graduate on Fall 2021 or Spring 2022.
+    <br /><br />
+    Prior to joining the PhD program at the UNT, I worked in the industry for about 9 years. During that period, I was involved in many projects which includes embedded programming, font (web font) technologies, web development. I have both academic and real world working experiences in many programming languages (and frameworks) such as C/C++, C#, .NET, python, pytorch, Matlab, Objective-C, Java, Javascript etc.
+</p>
+<hr />
+
+<h2 id="publications">Publications</h2>
+
+<p><strong>Amar Maharjan</strong>, Xiaohui Yuan, ”Registration of Human Point Set using Automatic Key Point Detection and Region-aware Features (accepted)”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022.</p>
+
+<hr />
+<p><strong>Amar Maharjan</strong>, Xiaohui Yuan, Qiang Lu, Yuqi Fan, and Tian Chen ”Non-rigid registration of point clouds using landmarks and stochastic neighbor embedding” Journal of Electronic Imaging 30(3), 031202 (5 January 2021). https://doi.org/10.1117/1.JEI.30.3.031202.</p>
+
+<hr />
+<p><strong>Amar Maharjan</strong>, Xiaohui Yuan, ”Point Set Registration of Large Deformation Using Auxiliary Landmarks”, 2nd International Conference on Urban Intelligence and Applications, 86-98, 2020.</p>
+
+<hr />
+<p>L. Kong, X. Yuan, and <strong>Amar Maharjan</strong>, “A hybrid framework for automatic joint detection of human poses in depth frames,” Pattern Recognition, vol. 77, pp. 216–225, 2018.</p>
+
+<hr />
+<p><strong>Amar Maharjan</strong>, “Selection of an Intermediate Representation for Program Analysis and Optimization”, 2008.</p>
+
+<hr />
+
+<h2 id="projects">Projects</h2>
+
+<p><a href="https://skyfonts.com/">SkyFonts</a></p>
+<ul>
+  <li>Cross-platform desktop-based cloud application that installs fonts from different service providers (like google, fonts.com, linotype, myfonts) into the user’s machine.</li>
+  <li>Main features include auto font installation, removal, login-logout service, font searching.</li>
+</ul>
+
+<hr />
+<p><a href="">FontSquare</a></p>
+<ul>
+  <li>iOS mobile application that installs Google fonts into the mobile device. It has features like searching fonts, searching fonts by categories, selecting fonts, installing fonts, removing fonts, show detail font information etc.</li>
+</ul>
+
+<hr />
+<p><a href="">iManageProject</a></p>
+<ul>
+  <li>Online web application for project management. Visual Studio 2010 as main IDE using C# as programming language. MsSql Server 2008 as backend, 2010.</li>
+  <li>Features: Login system, create projects, to-do lists, milestones, dashboard, writeboard, time tracking, chatting.</li>
+</ul>
+
+<hr />
+<p><a href="">Customer Relationship Management (CRM)b</a></p>
+<ul>
+  <li>Web application using Visual Studio 2008 using VB as programming language in DASS Pvt. Ltd. (CarThink, USA). Backend in MSSQL Server 2005. Features: Login system, Email system,Searching facilities, Reports etc.</li>
+</ul>
+
+<hr />
+<p><a href="">Reliability And Monitoring Program (RAMP)</a></p>
+<ul>
+  <li>Desktop database application using Visual Studio 2005 using C# as programming language in DASS Pvt. Ltd. (A J Walter Aviation, UK).</li>
+  <li>Features: Data entry, update, deletion, search. Showing and coloring in data grid view etc.</li>
+</ul>
+
+<hr />
+<p><a href="">Reliability And Monitoring Program (RAMP)</a></p>
+<ul>
+  <li>Embedded programming using C in DASS Pvt. Ltd, (Tietech, Japan).</li>
+  <li>Maintained modules of NVR. (http requests &amp; response, formatting &amp; detecting disks).</li>
+</ul>
+:ET
