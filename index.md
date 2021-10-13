@@ -18,11 +18,11 @@ title: Home
 **Amar Maharjan**, Xiaohui Yuan, ”Registration of Human Point Set using Automatic Key Point Detection and Region-aware Features (accepted)”, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022. 
 
 ---
-**Amar Maharjan**, Xiaohui Yuan, Qiang Lu, Yuqi Fan, and Tian Chen ”Non-rigid registration of point clouds using landmarks and stochastic neighbor embedding” Journal of Electronic Imaging 30(3), 031202 (5 January 2021). https://doi.org/10.1117/1.JEI.30.3.031202. [paper](https://doi.org/10.1117/1.JEI.30.3.031202)
+**Amar Maharjan**, Xiaohui Yuan, Qiang Lu, Yuqi Fan, and Tian Chen ”Non-rigid registration of point clouds using landmarks and stochastic neighbor embedding” Journal of Electronic Imaging 30(3), 031202 (5 January 2021). https://doi.org/10.1117/1.JEI.30.3.031202. [(paper)](https://doi.org/10.1117/1.JEI.30.3.031202)
 
 ---
 [//]: <> [Project 3 Title](http://example.com/)
-**Amar Maharjan**, Xiaohui Yuan, ”Point Set Registration of Large Deformation Using Auxiliary Landmarks”, 2nd International Conference on Urban Intelligence and Applications, 86-98, 2020. [paper](https://link.springer.com/chapter/10.1007/978-981-33-4601-7_9)
+**Amar Maharjan**, Xiaohui Yuan, ”Point Set Registration of Large Deformation Using Auxiliary Landmarks”, 2nd International Conference on Urban Intelligence and Applications, 86-98, 2020. [(paper)](https://link.springer.com/chapter/10.1007/978-981-33-4601-7_9)
 
 ---
 L. Kong, X. Yuan, and **Amar Maharjan**, “A hybrid framework for automatic joint detection of human poses in depth frames,” Pattern Recognition, vol. 77, pp. 216–225, 2018. [(paper)](https://www.sciencedirect.com/science/article/abs/pii/S0031320317305162)
