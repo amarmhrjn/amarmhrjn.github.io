@@ -1,53 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-<!-- Begin Jekyll SEO tag v2.7.1 -->
-<title>Home | Amar Maharjan</title>
-<meta name="generator" content="Jekyll v4.2.0" />
-<meta property="og:title" content="Home" />
-<meta property="og:locale" content="en_US" />
-<meta name="description" content="Resume | LinkedIn | GitHub | Twitter | Google Scholar Affiliation:&lt;br \&gt; PhD Candidate &lt;br \&gt; Computer Vision and Intelligent Systems (CoVIS) Lab &lt;br \&gt; University of North Texas &lt;br \&gt;&lt;br \&gt; Contact:&lt;br \&gt; tel: (940)-703-3172 &lt;br \&gt; email: amarmaharjan@my.unt.edu" />
-<meta property="og:description" content="Resume | LinkedIn | GitHub | Twitter | Google Scholar Affiliation:&lt;br \&gt; PhD Candidate &lt;br \&gt; Computer Vision and Intelligent Systems (CoVIS) Lab &lt;br \&gt; University of North Texas &lt;br \&gt;&lt;br \&gt; Contact:&lt;br \&gt; tel: (940)-703-3172 &lt;br \&gt; email: amarmaharjan@my.unt.edu" />
-<meta property="og:site_name" content="Amar Maharjan" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="Home" />
-<script type="application/ld+json">
-{"description":"Resume | LinkedIn | GitHub | Twitter | Google Scholar Affiliation:&lt;br \\&gt; PhD Candidate &lt;br \\&gt; Computer Vision and Intelligent Systems (CoVIS) Lab &lt;br \\&gt; University of North Texas &lt;br \\&gt;&lt;br \\&gt; Contact:&lt;br \\&gt; tel: (940)-703-3172 &lt;br \\&gt; email: amarmaharjan@my.unt.edu","@type":"WebSite","headline":"Home","url":"/","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/images/logo.png"}},"name":"Amar Maharjan","@context":"https://schema.org"}</script>
-<!-- End Jekyll SEO tag -->
-
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <!--[if lt IE 9]>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1><a href="/"><p align="center"> Amar Maharjan </p></a></h1>
-        
-        
-          <img src="/images/logo.png" alt="Logo" />
-        
-
-        <p>
-<p align="center"> <a href="pdf/cv-amar.pdf">Resume</a> | <a href="https://www.linkedin.com/in/amar-maharjan-7418673a/">LinkedIn</a> | <a href="https://github.com/amarmhrjn">GitHub</a> | <a href="https://twitter.com/amsquare">Twitter</a> | <a href="https://scholar.google.com/citations?user=LTJUDGoAAAAJ">Google Scholar</a> </p>
-<p align="justify"> <b>Affiliation:</b><br \> PhD Candidate <br \> <a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a> <br \> <a href="https://computerscience.engineering.unt.edu/">University of North Texas</a>
-<br \><br \> <b>Contact:</b><br \> tel: (940)-703-3172 <br \> email: amarmaharjan@my.unt.edu </p>
-</p>
-
-        
-
-        <!---->
-
-        
-      </header>
-      <section>
-
-      <h1 id="welcome">Welcome</h1>
+I"_<h1 id="welcome">Welcome</h1>
 <p>
     My research interests include point set registration, human pose estimation, deep learning, semi-supervised learning, computer vision, machine learning. I am a member of <b><a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a></b>.
     <br /><br /> 
@@ -134,15 +85,4 @@ Pattern Recognition, vol. 77, pp. 216–225, 2018. <br />
   <li>Embedded programming using C in DASS Pvt. Ltd, (Tietech, Japan).</li>
   <li>Maintained modules of NVR. (http requests &amp; response, formatting &amp; detecting disks).</li>
 </ul>
-
-
-      </section>
-      <footer>
-        
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
-  </body>
-</html>
+:ET
