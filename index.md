@@ -20,7 +20,7 @@ title: Home
 **Registration of Human Point Set using Automatic Key Point Detection and Region-aware Features** <br />
 [**Amar Maharjan**](), [Xiaohui Yuan](https://scholar.google.com/citations?user=4F2la7sAAAAJ&hl=en) <br />
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 741-749. <br />
-[(paper)]https://openaccess.thecvf.com/content/WACV2022/papers/Maharjan_Registration_of_Human_Point_Set_Using_Automatic_Key_Point_Detection_WACV_2022_paper.pdf <br />
+[(paper)](https://openaccess.thecvf.com/content/WACV2022/papers/Maharjan_Registration_of_Human_Point_Set_Using_Automatic_Key_Point_Detection_WACV_2022_paper.pdf) <br />
 ![KPIden](images/kpiden.jpg)
 
 ---
