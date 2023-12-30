@@ -12,7 +12,7 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <p align="justify">
   <b>Affiliation:</b><br \>
-  <a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a> <br \>
+  <!-- <a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a> <br \> -->
   <a href="https://computerscience.engineering.unt.edu/">University of North Texas</a>
   
   <br \><br \>
