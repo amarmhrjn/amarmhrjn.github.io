@@ -5,9 +5,9 @@ title: Home
 
 # Welcome
 <p>
-    My research interests include point set registration, human pose estimation, deep learning, semi-supervised learning, computer vision, machine learning. I am a member of <b><a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a></b>.
+    My research interests include point set registration, human pose estimation, semi-supervised learning, computer vision, machine learning, artificial intelligence.</b>.
     <br /><br /> 
-    I am a PhD candidate student at the University of North Texas (UNT), Denton. My research is on <b>Non-rigid registration of point set with large and uneven deformation</b> such as (3D) point sets representing complex articulated human poses. To achieve accurate non-rigid registration in such challenging cases, my work uses both local neighborhood constraint and global shape constraint in the registration. To preserve the local neighborhood structure during registration, I use constraints such as Stochastic Neighbor Embedding (SNE) or Locally Linear Embedding (LLE). I use Keypoint (or landmark) correspondences as a global shape constraint that enforces the alignment of corresponding keypoints between the point sets. To accurately identify the keypoints and their correspondences between the point sets, I use region-aware cluster-based feature descriptor or unsupervised deep learning techniques.
+    I am a Clinical Assistant Professor at the University of North Texas (UNT), Denton. My research is on <b>Non-rigid registration of point set with large and uneven deformation</b> such as (3D) point sets representing complex articulated human poses. To achieve accurate non-rigid registration in such challenging cases, my work uses both local neighborhood constraint and global shape constraint in the registration. To preserve the local neighborhood structure during registration, I use constraints such as Stochastic Neighbor Embedding (SNE) or Locally Linear Embedding (LLE). I use Keypoint (or landmark) correspondences as a global shape constraint that enforces the alignment of corresponding keypoints between the point sets. To accurately identify the keypoints and their correspondences between the point sets, I use region-aware cluster-based feature descriptor or unsupervised deep learning techniques.
     <br /><br />
     Prior to joining the PhD program at the UNT, I worked in the industry for about 9 years. During that period, I was involved in many projects which includes embedded programming, font (web font) technologies, web development. I have both academic and real-world working experiences in many programming languages (and frameworks) such as C/C++, C#, .NET, Python, PyTorch, Matlab, Objective-C, Java, Javascript etc.
     <br /><br />
@@ -22,6 +22,12 @@ title: Home
 Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2022, pp. 741-749. <br />
 [(paper)](https://openaccess.thecvf.com/content/WACV2022/papers/Maharjan_Registration_of_Human_Point_Set_Using_Automatic_Key_Point_Detection_WACV_2022_paper.pdf) <br />
 ![KPIden](images/kpiden.jpg)
+
+---
+**Non-rigid point set registration: recent trends and challenges** <br />
+[Xiaohui Yuan](https://scholar.google.com/citations?user=4F2la7sAAAAJ&hl=en), [**Amar Maharjan**]() <br />
+Artificial Intelligence Review, Springer, 56, 4859–4891 (2023). <br />
+[(paper)]("https://link.springer.com/article/10.1007/s10462-022-10292-4) <br />
 
 ---
 **Non-rigid registration of point clouds using landmarks and stochastic neighbor embedding** <br />
