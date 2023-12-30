@@ -1,4 +1,4 @@
-title: <p align="center"> Amar Maharjan </p>
+title: <p align="center"> Dr. Amar Maharjan </p>
 logo: "/images/logo.png" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
@@ -12,14 +12,13 @@ description: > # your text below (remove <br> elements if you don't need line br
 
   <p align="justify">
   <b>Affiliation:</b><br \>
-  PhD Candidate <br \>
   <a href="http://covis.cse.unt.edu/">Computer Vision and Intelligent Systems (CoVIS) Lab</a> <br \>
   <a href="https://computerscience.engineering.unt.edu/">University of North Texas</a>
   
   <br \><br \>
   <b>Contact:</b><br \>
   tel: (940)-703-3172 <br \>
-  email: amarmaharjan@my.unt.edu
+  email: amar.maharjan@unt.edu
   </p>
   
 theme: jekyll-theme-minimal
